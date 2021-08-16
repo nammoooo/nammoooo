@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Basic programming
 - 💞️ I’m looking to collaborate on ... Tech Sourcing and Talent Stragegies
 - 📫 How to reach me ... linkedin
-- 
-Github Bannger (https://github.com/nammoooo/nammoooo/blob/master/GithubBanner.png)
+
+ (https://github.com/nammoooo/nammoooo/blob/main/GithubBanner.png)
 
 
 ### Hi there 👋, I'am Namrata Singh
