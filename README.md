@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ... Basic programming
 - 💞️ I’m looking to collaborate on ... Tech Sourcing and Talent Stragegies
 - 📫 How to reach me ... linkedin
+- 
+(https://github.com/nammoooo/nammoooo/blob/main/Github%20Banner.png?raw=true)
+
 
 ### Hi there 👋, I'am Namrata Singh
 #### I am FullStack Recruiter/Sourcer/Talent Strategists
