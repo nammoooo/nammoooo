@@ -1,8 +1,4 @@
 
-## Sourcing and Recruitment
-![image](https://user-images.githubusercontent.com/88934779/129579703-190eb716-93a9-4d42-94f8-8976e27cbe7c.png)
-
-
 
 - 👋 Hi, I’m 🕵️‍ 🔍 from 🇮🇳  
 - 👀 I’m working on ... Talent Strategies, Sourcing 🔍 Recruitment
@@ -11,6 +7,13 @@
 - 💬 Ask me about... Hiring/Soucring/Talent strategies/People 
 - 😄 Pronouns... Her/hers/♀️
 - 💕 🗣️ ☕ ⚖️ 🎨 
+
+
+## Sourcing and Recruitment
+![image](https://user-images.githubusercontent.com/88934779/129579703-190eb716-93a9-4d42-94f8-8976e27cbe7c.png)
+
+
+
 
 
 I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking for new and creative ways to find it. I'm exploring new sourcing trends, and all the tricks, 🛠️ and techniques for finding the 🔆 💎 talent. In my spare ⏳ I nurture my passion for 💃 salsa, 💃 tango and 🔗 🧑‍🤝‍🧑 with sourcing communities.  
