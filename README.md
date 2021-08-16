@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ... Tech Sourcing and Talent Stragegies
 - 📫 How to reach me ... linkedin
 
- (https://github.com/nammoooo/nammoooo/blob/main/GithubBanner.png)
+![image](https://user-images.githubusercontent.com/88934779/129579703-190eb716-93a9-4d42-94f8-8976e27cbe7c.png)
+
+
 
 
 ### Hi there 👋, I'am Namrata Singh
