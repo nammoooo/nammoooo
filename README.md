@@ -7,7 +7,7 @@
 - 💕 🗣️ ☕ ⚖️ 🎨 
 
 
-I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking for new and creative ways to find it. I'm exploring new sourcing trends, and learning about all the tricks, 🛠️ and techniques for finding the 🔆 💎 talent. In my spare ⏳ I nurture my passion for 💃 salsa, 💃 tango and 🔗 🧑‍🤝‍🧑 with sourcing communities.  
+I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking for new and creative ways to find it. I'm exploring new sourcing trends, and all the tricks, 🛠️ and techniques for finding the 🔆 💎 talent. In my spare ⏳ I nurture my passion for 💃 salsa, 💃 tango and 🔗 🧑‍🤝‍🧑 with sourcing communities.  
 
 
 
