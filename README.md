@@ -4,7 +4,7 @@
 - 👀 I’m working on ... Talent Strategies, Sourcing 🔍 Recruitment
 - 🌱 I’m currently learning ...🔰 Basic programming, techniques, 🛠️ tools 
 - 💞️ I’m looking to collaborate on ... 👩‍💻 Sourcing, Hackathon and basic programming
-- 💬 Ask me about... Hiring/Soucring/Talent strategies/People 
+- 💬 Ask me about... Hiring/Sourcing/Talent strategies/People 
 - 😄 Pronouns... Her/hers/♀️
 - 💕 🗣️ ☕ ⚖️ 🎨 
 
