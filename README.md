@@ -20,7 +20,7 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 
 
 
-![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=nammoooo&show_icons=true&theme=radical)
+![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=nammoooo&show_icons=true&theme=github_dark)
 
 
 
