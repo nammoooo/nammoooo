@@ -22,6 +22,8 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 
 
 
+[![Namrata's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nammoooo)](https://github/nammoooo/github-readme-stats)
+
 
 
 <!---
