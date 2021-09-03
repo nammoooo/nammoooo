@@ -8,8 +8,14 @@
 - 😄 Pronouns... Her/hers/♀️
 - 💕 🗣️ ☕ ⚖️ 🎨 
 
+
 ---
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?color=%231DA1F2&logo=twitter&style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?color=green&logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?color=red&logo=github&style=for-the-badge"> 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?color=yellow&logo=twitter&style=flat-square"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?color=green&logo=github&style=flat-square"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?color=red&logo=github&style=flat-square"> 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=nammoooo">
+
+
+
 ---
 
 ## Sourcing and Recruitment
