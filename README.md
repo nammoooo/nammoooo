@@ -25,6 +25,7 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nammoooo&repo=nammoooo)
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?style=for-the-badge">
 
 
 <!---
