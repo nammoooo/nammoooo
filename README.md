@@ -9,7 +9,7 @@
 - 💕 🗣️ ☕ ⚖️ 🎨 
 
 ---
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?style=for-the-badge">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?style=for-the-badge">
 
 ---
 
