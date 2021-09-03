@@ -9,8 +9,7 @@
 - 💕 🗣️ ☕ ⚖️ 🎨 
 
 ---
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?color=%231DA1F2&logo=twitter&style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?color=green&logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?color=red&logo=github&style=for-the-badge">
-
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?color=%231DA1F2&logo=twitter&style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?color=green&logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?color=red&logo=github&style=for-the-badge"> 
 ---
 
 ## Sourcing and Recruitment
@@ -26,17 +25,16 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 
 ![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=nammoooo&show_icons=true&theme=github_dark)
 
-
 ---
 
 🧰 <strong>Toolbox</strong>
 
 <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="stack-overflow Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="office-2 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/google-custom-search.svg" alt="google-custom-search Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/stack-exchange.svg" alt="stack-exchange Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="linkedin Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook-3 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="twitter-6 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="devto Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank Logo" width="50" height="50"/>
 
-
-
-
 ---
+
+
+<a href="https://github.com/nammoooo/github-readme-activity-graph"><img alt="nammoooo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nammoooo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
