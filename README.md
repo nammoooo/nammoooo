@@ -8,6 +8,8 @@
 - 😄 Pronouns... Her/hers/♀️
 - 💕 🗣️ ☕ ⚖️ 🎨 
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?style=for-the-badge">
+
 
 ## Sourcing and Recruitment
 ![image](https://user-images.githubusercontent.com/88934779/129579703-190eb716-93a9-4d42-94f8-8976e27cbe7c.png)
@@ -23,9 +25,7 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 ![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=nammoooo&show_icons=true&theme=github_dark)
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nammoooo&repo=nammoooo)
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?style=for-the-badge">
 
 
 <!---
