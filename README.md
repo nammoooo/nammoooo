@@ -10,7 +10,7 @@
 
 
 ---
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?color=yellow&logo=twitter&style=flat-square"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?color=green&logo=github&style=flat-square"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?color=red&logo=github&style=flat-square"> 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?color=yellow&logo=twitter&style=flat-square"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?color=green&logo=github&style=flat-square"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?color=red&logo=github&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nammoooo/nammoooo?logo=Github"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/nammoooo/nammoooo?color=red&logo=github">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nammoooo">
 
