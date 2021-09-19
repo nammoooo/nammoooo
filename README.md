@@ -1,4 +1,19 @@
 ---
+<a href="https://twitter.com/nammmooo">
+  <img align="left" alt="Namrata's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/namrata-singh-gphr-hrci-shrm-scp/">
+  <img align="left" alt="Namrata's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/nammoooo">
+  <img align="left" alt="Namrata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/">
+  <img align="left" alt="Namrata's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+</br>
+
+---
 
 - 👋 Hi, I’m 🕵️‍ 🔍 from 🇮🇳  
 - 👀 I’m working on ... Talent Strategies, Sourcing 🔍 Recruitment
@@ -22,21 +37,7 @@
 ## Sourcing and Recruitment
 ![image](https://user-images.githubusercontent.com/88934779/129579703-190eb716-93a9-4d42-94f8-8976e27cbe7c.png)
 
----
 
-<a href="https://twitter.com/nammmooo">
-  <img align="left" alt="Namrata's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/namrata-singh-gphr-hrci-shrm-scp/">
-  <img align="left" alt="Namrata's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/nammoooo">
-  <img align="left" alt="Namrata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/">
-  <img align="left" alt="Namrata's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-</br>
 
 
 ---
