@@ -33,7 +33,7 @@
 <a href="https://github.com/nammoooo">
   <img align="left" alt="Namrata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/namrata.singh.372">
+<a href="https://www.facebook.com/">
   <img align="left" alt="Namrata's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </br>
