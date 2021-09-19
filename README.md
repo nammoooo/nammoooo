@@ -9,6 +9,7 @@
 - 💕 🗣️ ☕ ⚖️ 🎨 
 
 
+
 ---
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nammmooo?color=yellow&logo=twitter&style=flat-square"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/nammoooo?color=green&logo=github&style=flat-square"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nammoooo?color=red&logo=github&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nammoooo/nammoooo?logo=Github"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/nammoooo/nammoooo?color=red&logo=github">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -21,6 +22,21 @@
 ## Sourcing and Recruitment
 ![image](https://user-images.githubusercontent.com/88934779/129579703-190eb716-93a9-4d42-94f8-8976e27cbe7c.png)
 
+---
+
+<a href="https://twitter.com/nammmooo">
+  <img align="left" alt="Namrata's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/namrata-singh-gphr-hrci-shrm-scp/">
+  <img align="left" alt="Namrata's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/nammoooo">
+  <img align="left" alt="Namrata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/namrata.singh.372">
+  <img align="left" alt="Namrata's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+</br>
 
 
 ---
