@@ -55,7 +55,7 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 
 ---
 
-<a href="https://github.com/nammoooo/github-readme-activity-graph"><img alt="nammoooo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nammoooo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nammoooo/github-readme-activity-graph"><img alt="nammoooo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nammoooo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
 <br/>
 
