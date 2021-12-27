@@ -56,7 +56,7 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 <a href="https://github.com/nammoooo/github-readme-activity-graph"><img alt="nammoooo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nammoooo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
   
 ---
- ## Medium Articles @nammooo
+ ## Medium @nammooo
   
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/0" alt="Recent Article 0"> 
 
