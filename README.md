@@ -57,7 +57,18 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
   
 ---
  ## Medium Articles @nammooo
-[![Namrata Singh Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=nammooo)](https://medium.com/@nammooo)
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/4" alt="Recent Article 4">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/3" alt="Recent Article 3">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/2" alt="Recent Article 2">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/1" alt="Recent Article 1">
+
+
 
 <br/>
 
