@@ -38,8 +38,6 @@
 ![image](https://user-images.githubusercontent.com/88934779/129579703-190eb716-93a9-4d42-94f8-8976e27cbe7c.png)
 
 
-
-
 ---
 
 I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking for new and creative ways to find it. I'm exploring new sourcing trends, and all the tricks, 🛠️ and techniques for finding the 🔆 💎 talent. In my spare ⏳ I nurture my passion for 💃 salsa, 💃 tango and 🔗 🧑‍🤝‍🧑 with sourcing communities.  
@@ -47,15 +45,6 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 ---
 
 ![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=nammoooo&show_icons=true&theme=github_dark)
----
-  ## Medium Articles
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/0" alt="Recent Article 0"> 
-     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/1" alt="Recent Article 1"> 
-       
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/4" alt="Recent Article 4">
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nammooo/2" alt="Recent Article 2"> 
-  
 
 ---
 🧰 Tools
@@ -65,6 +54,10 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 ---
 
 <a href="https://github.com/nammoooo/github-readme-activity-graph"><img alt="nammoooo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nammoooo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+  
+---
+ ## Medium Articles @nammooo
+[![Namrata Singh Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=nammooo)](https://medium.com/@nammooo)
 
 <br/>
 
@@ -72,7 +65,5 @@ I am always on the 🔍 🏹 🕵️‍♀️ 🎯 for 🔆 talent while looking
 <!---
 nammoooo/nammoooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-
 
 
