@@ -14,6 +14,10 @@
 </br>
 
 ---
+Hands-on experience in latest recruitment tools 🛠️  & techniques, crafting Boolean syntax, X-Ray 🔍 sourcing, CSE)   Github, StackOverflow,  Twitter,  Google,  YouTube etc.
+Data Visualization with R library – ggplots, tidyverse etc.
+
+---
 
 - 👋 Hi, I’m 🕵️‍ 🔍 from 🇮🇳  
 - 👀 I’m working on ... Talent Strategies, Sourcing 🔍 Recruitment
